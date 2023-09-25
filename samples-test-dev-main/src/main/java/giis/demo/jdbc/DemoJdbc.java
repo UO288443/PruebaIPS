@@ -17,7 +17,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import giis.demo.util.UnexpectedException;
-
+/*
+ * realizo el comentario de pruebas para ver que todo va bien
+ */
 /**
  * Ejemplos de acceso a una base de datos con conexion JDBC y base de datos Sqlite
  * 
